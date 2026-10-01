@@ -1,0 +1,26 @@
+{
+  "name": "MTProto Компас — 75 живых прокси для Телеграма на 15:33 МСК",
+  "short_name": "MTProto Компас",
+  "description": "75 живых прокси для Телеграма на MTProto Компас. Проверка доступности, пинг, подключение через официальный клиент Telegram без VPN и регистрации.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8fb",
+  "theme_color": "#25649d",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

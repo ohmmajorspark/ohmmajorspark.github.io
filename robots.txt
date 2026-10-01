@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ohmmajorspark.github.io/sitemap.xml
